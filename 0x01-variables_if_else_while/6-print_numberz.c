@@ -3,7 +3,7 @@
  * main - Entry point
  * Description: 'print numberz of base 10 using puchar'
  * Return : Always 0
- */
+*/
 int main(void)
 {
 	int n;
